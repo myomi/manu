@@ -1,0 +1,12 @@
+{
+  "name": "manu",
+  "description": "quick help library",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/myomi/manu",
+  "author": "myomi",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
